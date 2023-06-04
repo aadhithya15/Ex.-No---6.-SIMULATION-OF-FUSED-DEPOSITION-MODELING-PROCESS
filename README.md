@@ -21,7 +21,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![1](https://github.com/aadhithya15/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121165812/d864f059-2b19-4cbc-8f67-bf5c5b95e79b)### Name: Aadhithya M
+![1](https://github.com/aadhithya15/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121165812/d864f059-2b19-4cbc-8f67-bf5c5b95e79b)
+### Name: Aadhithya M
 ### Register Number: 212222100001
 
 ## Result: 
